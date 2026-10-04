@@ -1,4 +1,4 @@
-###### README.md >> markdown
+###### ~/README.md >> markdown
 # 🤖 DES-Linux
 ```text
 Version 2.0
