@@ -1,0 +1,71 @@
+# ============================
+# DES+Linux v1.0 — .gitignore
+# Ingénierie Système / Android / Linux
+# ============================
+
+# --- OS / Système ---
+.DS_Store
+Thumbs.db
+
+# --- Logs ---
+*.log
+logs/
+debug.log
+
+# --- Environnements Linux ---
+# Termux / proot / chroot
+termux.properties
+proot/
+chroot/
+*.pid
+
+# --- Python ---
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+env/
+venv/
+
+# --- Node.js ---
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# --- Build / Cache ---
+.cache/
+tmp/
+temp/
+dist/
+build/
+
+# --- Éditeurs ---
+# VSCode
+.vscode/
+# JetBrains
+.idea/
+
+# --- Tests ---
+test-output/
+coverage/
+
+# --- Assets lourds ---
+assets/raw/
+*.psd
+*.ai
+*.zip
+*.tar
+*.tar.gz
+
+# --- Sécurité ---
+*.key
+*.pem
+*.crt
+*.env
+.env.local
+.env.production
+
+# --- Android / DEX ---
+dex-cache/
+*.apk
+*.aab
