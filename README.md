@@ -2,8 +2,7 @@
 # 🤖 DES-Linux
 > Version 2.0
 ```text
-Version 2.0
-Android Desktop Engineering System
+- Android Desktop
 ```
 
 <p align="center">
