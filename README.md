@@ -1,15 +1,22 @@
 ###### ~/README.md >> markdown
+
 # 🟣⚛️ DES-Linux
+
 - VERSION 8.0
 
 ### Hyper‑Quantum Distributed OPS Suite
+
 ```text
+
 Android → DEX → Linux → OPS → Cloud → Distributed Quantum‑Era
+
 ```
 
 <div align="center">
+   
 DES+Linux v8.0 est la suite d’ingénierie système la plus avancée produite. 
 Une architecture hyper‑distribuée, cloud‑OPS, neuronale légère, pensée pour les environnements tactiques, distribués, multi‑nœuds et haute disponibilité.
+
 </div>
 
 ---
@@ -22,7 +29,9 @@ Une architecture hyper‑distribuée, cloud‑OPS, neuronale légère, pensée p
 ---
 
 ### ⚛️ Capacités Hyper‑Quantum
+
 ```text
+
 - [x] Architecture distribuée Quantum‑OPS Mesh  
 - [x] Modules tactiques multi‑nœuds  
 - [x] Neural‑Lite Engine (profilage intelligent)  
@@ -30,12 +39,14 @@ Une architecture hyper‑distribuée, cloud‑OPS, neuronale légère, pensée p
 - [x] Cloud Sync AES‑256 + isolation multi‑zones  
 - [x] Automation totale (Hyper‑OPS Engine)  
 - [x] Documentation Hyper‑Quantum  
-- [x] DEX Desktop optimisé haute disponibilité  
+- [x] DEX Desktop optimisé haute disponibilité
+
 ```
 
 ### 🧱 Architecture Hyper‑Quantum
 
 <div align="left">
+
 🔮 Couche 1 : Android OPS‑Core v8
 Gestion énergie, réseau, sandbox renforcé, isolation multi‑profil.
 
@@ -63,13 +74,20 @@ Réseau tactique distribué, supervision multi‑points, haute disponibilité.
 
 <div align="left">
 
-📂 .github/ — Workflows Quantum‑OPS, actions distribuées  
+📂 .github/ — Workflows Quantum‑OPS, actions distribuées
+
 📂 docs/ — Documentation Hyper‑Quantum, architecture, sécurité  
+
 📂 assets/ — Ressources visuelles, schémas distribués  
+
 📂 modules/ — Scripts OPS, automation, monitoring mesh  
+
 📂 ops/ — Centre tactique, logs synchronisés  
+
 📂 cloud/ — Sync sécurisé, CI/CD distribué, multi‑zones  
+
 📂 mesh/ (nouveau) — OPS distribués, nœuds tactiques, supervision  
+
 📂 test/ — QA, validation, tests Quantum‑OPS  
 
 </div>
@@ -103,14 +121,9 @@ Réseau tactique distribué, supervision multi‑points, haute disponibilité.
 
 </div>
 
----
+### 🔧 Nouveaux modules v8.0
 
-<div align="center">
-
-🔧 Nouveaux modules v8.0
-</div>
-
-<div align="left">
+<div align="right">
 
 🧠 Quantum‑Lite Neural Engine
 Analyse adaptative, optimisation neuronale, prédiction OPS.
@@ -131,12 +144,13 @@ Réseau tactique distribué, supervision multi‑points.
 
 ---
 
-<div align="right">
+### 📌 Version
+###### *** DES+Linux v8.0 ***
+###### *** Hyper‑Quantum ***
+###### Distributed OPS Suite  
 
-📌 Version
-DES+Linux v8.0 — Hyper‑Quantum Distributed OPS Suite  
+```text
 🟣⚛️ Quantum‑Era — OPS‑Mesh — Cloud‑Secure — Ultra‑Optimisé — Ultra‑Distribué
-
-</div>
+```
 
 ---
