@@ -1,6 +1,6 @@
 ###### ~/docs/README.md >> markdown
 # Documentation
->DES+Linux v1.0
+>DES+Linux
 
 ### ✔️ Contenu
 - [x] Architecture système
