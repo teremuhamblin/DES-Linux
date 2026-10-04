@@ -1,19 +1,19 @@
 ###### ~/README.md >> markdown
 # 🤖 DES-Linux
+> Version 2.0
 ```text
 Version 2.0
 Android Desktop Engineering System
 ```
 
 <p align="center">
-"DES-Linux" est un ENVIRONNEMENT</p>
+"DES-Linux" est un ENVIRONNEMENT
+</p>
 
 ### 🤖 System Engineering Suite
-
 ```text
 **Android → Desktop → Linux**
 ```
-
 <p align="center">
 **Conçu pour transformer un smartphone en poste d’ingénierie système portable.**
 </p>
