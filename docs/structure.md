@@ -1,4 +1,4 @@
-###### structure.md >> markdown
+###### ~/docs/structure.md >> markdown
 # 📦 DES+Linux
 - **Version 1.0**
 
