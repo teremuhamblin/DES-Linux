@@ -1,13 +1,14 @@
 ###### README.md >> markdown
-# 🤖 DES+Linux
+# 🤖 DES-Linux
 ```text
-Version 1.0
+Version 2.0
 Android Desktop Engineering System
 ```
 
 <p align="center">
-***DES+Linux*** est un `mini‑environnement`
-</p>
+"DES-Linux" est un ENVIRONNEMENT</p>
+
+### 🤖 System Engineering Suite
 
 ```text
 **Android → Desktop → Linux**
@@ -17,20 +18,50 @@ Android Desktop Engineering System
 **Conçu pour transformer un smartphone en poste d’ingénierie système portable.**
 </p>
 
-### ✔️ Objectifs
+### ✔️ Nouveautés v2.0
+- [x] Architecture multi‑couches (Android → DEX → Linux → Cloud)
+- [x] Modules système autonomes
+- [x] Scripts d’ingénierie avancés
+- [x] Documentation professionnelle
+- [x] Sécurité renforcée
+- [x] Support entreprise
+
+### 🧱 Architecture v2.0
 ```text
-- [x] Mode bureau Android (DEX)
-- [x] Terminal Linux avancé (proot/chroot)
-- [x] Outils système essentiels
-- [x] Structure projet claire et modulaire
+- **Couche 1 : Android**
+  - Gestion énergie, réseau, sandbox
+- **Couche 2 : DEX**
+  - Interface desktop, multitâche, productivité
+- **Couche 3 : Linux**
+  - Environnement système complet (proot/chroot)
+  - Outils dev, réseau, automation
+- **Couche 4 : Cloud**
+  - Synchronisation, stockage, CI/CD léger
 ```
 
-### 📁 Dossiers inclus
-- `.github/` — Gestion du projet
-- `docs/` — Documentation système
-- `assets/` — Ressources
-- `test/` — Scripts & validations
+### 📁 Structure du projet
+- `.github/` — Automatisation & gestion
+- `docs/` — Documentation technique avancée
+- `assets/` — Ressources visuelles
+- `modules/` — Scripts & outils système
+- `test/` — QA & validation
+
+### 🚀 Capacités v2.0
+```text
+- [x] Développement (Python, Node.js, Git)
+- [x] Réseau & diagnostic
+- [x] OSINT / Analyse
+- [x] Automatisation (scripts)
+- [x] Cloud sync (optionnel)
+- [x] Mode bureau Android stable
+```
+
+### 🏢 Edition Entreprise
+- [x] Structure professionnelle
+- [x] Sécurité renforcée
+- [x] Documentation claire
+- [x] Code propre et modulaire
 
 ### 📌 Version
-- DES+Linux v1.0
-- Prête pour extension.
+- DES+Linux v2.0
+- Full System Engineering Suite
