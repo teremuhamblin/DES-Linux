@@ -1,36 +1,28 @@
 ###### ~/README.md >> markdown
+# 🟣⚛️ DES-Linux
+- VERSION 8.0
 
----
-
-<div align="center">
-
-🟣⚛️ DES+Linux v8.0
-###### Hyper‑Quantum Distributed OPS Suite
-
+### Hyper‑Quantum Distributed OPS Suite
+```text
 Android → DEX → Linux → OPS → Cloud → Distributed Quantum‑Era
+```
 
-</div>
-
-<div align="left">
-
-DES+Linux v8.0 est la suite d’ingénierie système la plus avancée jamais produite.  
+<div align="center">
+DES+Linux v8.0 est la suite d’ingénierie système la plus avancée produite. 
 Une architecture hyper‑distribuée, cloud‑OPS, neuronale légère, pensée pour les environnements tactiques, distribués, multi‑nœuds et haute disponibilité.
-
-Cette édition fusionne :  
-Android, DEX, Linux, OPS Modules, Cloud sécurisé,  
-Quantum‑Lite Neural Engine, Distributed OPS Mesh, Automation totale.
-
 </div>
 
 ---
 
-<div align="center">
+- Cette édition fusionne :  
+   - Android, DEX, Linux, OPS Modules, Cloud sécurisé,  
+   - Quantum‑Lite Neural Engine,
+   - Distributed OPS Mesh, Automation totale.</div>
 
-⚛️ Capacités Hyper‑Quantum v8.0
-</div>
+---
 
-<div align="left">
-
+### ⚛️ Capacités Hyper‑Quantum
+```text
 - [x] Architecture distribuée Quantum‑OPS Mesh  
 - [x] Modules tactiques multi‑nœuds  
 - [x] Neural‑Lite Engine (profilage intelligent)  
@@ -39,18 +31,11 @@ Quantum‑Lite Neural Engine, Distributed OPS Mesh, Automation totale.
 - [x] Automation totale (Hyper‑OPS Engine)  
 - [x] Documentation Hyper‑Quantum  
 - [x] DEX Desktop optimisé haute disponibilité  
+```
 
-</div>
-
----
-
-<div align="center">
-
-🧱 Architecture Hyper‑Quantum v8.0
-</div>
+### 🧱 Architecture Hyper‑Quantum
 
 <div align="left">
-
 🔮 Couche 1 : Android OPS‑Core v8
 Gestion énergie, réseau, sandbox renforcé, isolation multi‑profil.
 
@@ -74,12 +59,7 @@ Réseau tactique distribué, supervision multi‑points, haute disponibilité.
 
 </div>
 
----
-
-<div align="center">
-
-📁 Structure v8.0
-</div>
+### 📁 Structure v8.0
 
 <div align="left">
 
@@ -94,12 +74,7 @@ Réseau tactique distribué, supervision multi‑points, haute disponibilité.
 
 </div>
 
----
-
-<div align="center">
-
-🎯 Objectifs Hyper‑Quantum v8.0
-</div>
+### 🎯 Objectifs Hyper‑Quantum v8.0
 
 <div align="left">
 
@@ -113,12 +88,7 @@ Réseau tactique distribué, supervision multi‑points, haute disponibilité.
 
 </div>
 
----
-
-<div align="center">
-
-🚀 Avantages v8.0
-</div>
+### 🚀 Avantages v8.0
 
 <div align="left">
 
